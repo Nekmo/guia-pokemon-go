@@ -11,7 +11,7 @@ Procedimiento:
 * Cuando lo evoluciones, auméntale el PC hasta el máximo que puedas.
 * Repetir hasta que el pokémon llegue a su fase final*.
 
-*No olvidéis que cuando subís vuestro nivel de entrenador podréis aumentar el PC de vuestro Pokémon aún más.
+Nota: No olvidéis que cuando subís vuestro nivel de entrenador podréis aumentar el PC de vuestro Pokémon aún más.
 
 Explicación:
 
