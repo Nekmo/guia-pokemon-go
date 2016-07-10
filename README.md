@@ -20,3 +20,18 @@ Explicación:
 3. Esto se autoexplica con el punto anterior
 4. Esto lo hacemos por dos motivos: porque así ya pronto tienes un pokémon más potente y porque el desarrollo del arco de PC suele descender cuando evolucione, lo que se traduce en: subir todos los PC que puedas porque después no hay vuelta atrás y después no se podrán subir (en mayor o menor cantidad)
 5. Obviamente, por que a mayor fase tenga un pokémon, mayor límite de PC tenga.
+
+##Encontrando Pokemon
+
+![Trackeando Pokemons](http://i.imgur.com/k2VwixA.jpg)
+
+1. Selecciona un pokemon del menu cerca 
+![Imgur](http://i.imgur.com/hJKX4Jq.png)
+2. Ten en cuenta el numero de garras del pokemon que buscas.
+3. Comienza a andar
+  - Si el número de garras aumenta, gira 180 grados y camina en la dirección contraria para hacer que vuelva a bajar el contador.
+  - En el momento que el número de garras baja, ten en cuenta la localización para seguir por donde vas (Punto A)
+  - Despues de haber conseguido que las garras bajen, si en cualquier momento el número de garras sube ten en cuante la localización (Punto B)
+4. Ve a la mitad del camino(Punto C) entre el punto A y B, gira 90 grados y camina. En este punto deberías estar andando directamente hacia el pokemon o en la dirección contraria.  
+
+Fuente: [Reddit](https://www.reddit.com/r/pokemongo/comments/4ruoh8)
