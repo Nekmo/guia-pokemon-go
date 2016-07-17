@@ -10,7 +10,7 @@ El objetivo de estas reglas es mantener un buen ambiente y conservar la esencia 
 
 ## Lo que no es deseable
 1. Desvirtuar el tema más de lo necesario en temas no relacionados los expuestos en el punto 1 de 'lo que es deseable', considerándose el máximo de 5-10 minutos.
-2. Enviar mensajes sucesivos que podrían resumirse en uno solo, o más conocido como flood. Un máximo de 10 mensajes por minuto es lo deseable. 
+2. Enviar mensajes sucesivos que podrían resumirse en uno solo, o más conocido como flood. El máximo deseable es de 10 mensajes por minuto al conversar con otras personas.
 3. El uso de mensajes de voz cuando podría utilizarse texto. Consume datos y dificulta seguir el tema.
 4. Llevar en exceso la competitividad en el juego. Recordar que ante todo se trata de un juego.
 
