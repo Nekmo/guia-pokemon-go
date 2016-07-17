@@ -20,7 +20,7 @@ El objetivo de estas reglas es mantener un buen ambiente y conservar la esencia 
 3. En relación al apartado anterior, fomentar de forma reiterada el odio y separación entre jugadores del juego haciendo uso de los "equipos" dentro del mismo.
 4. Enlazado con el punto anterior, la publicidad de otros grupos regionales que segreguen a sus usuarios en función a su equipo, al chocar este comportamiento con los puntos 5 y 4 de la primera y segunda sección, respectivamente*.
 
-# *Postura oficial sobre los grupos equipos
+# *Postura oficial sobre los grupos de equipos
 Como muchos sabrán, Niantic, creadora de Pokémon GO, tiene un juego anterior llamado Ingress, y que en éste hay 2 grandes bandos, los iluminados y la resitencia. Menos conocido será, que ambos equipo se llevan a matar. Pero de verdad. La comunidad se ha vuelto demasiado tóxica, y de nosotros depende que Pokémon GO no se convierta en lo mismo.
 
 Desde el grupo de Málaga, queremos fomentar la creación de una comunidad amigable que no dé tanta importancia a los equipos, que esté aquí para pasarlo bien, y que pueda quedar con otras personas que no son de su color. Es posible que pienses "¿Por qué quedaría con gente del equipo Valor para reventar uno de sus gimnasios?". Sí, esto es cierto. Pero si eres azul, nada te impide quedar con otros amarillos, o si eres amarillo, quedar con otros azules por el bien común. ¡Incluso puedes quedar con gente del equipo valor para que luego os ayuden con un gimnasio azul/amarillo!
