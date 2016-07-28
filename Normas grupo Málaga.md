@@ -1,6 +1,9 @@
 # Normas del grupo de Málaga
 El objetivo de estas reglas es mantener un buen ambiente y conservar la esencia y objetivos originales del grupo (hablar de Pokémon GO) en un grupo que ya ha superado un gran número de usuarios.
 
+## Versión corta
+(en desarrollo)
+
 ## Lo que es deseable
 1. Hablar de Pokémon GO, su empresa y servicio, y ocasionalmente sus derivados como otros juegos de Pokémon.
 2. Sobre todo, el hablar de temas relacionados con Pokémon GO, y de Málaga en particular, como pueden ser zonas de captura, gimnasios, quedadas, trucos, etc.
